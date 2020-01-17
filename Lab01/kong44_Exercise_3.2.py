@@ -13,7 +13,7 @@ def do_twice(arg1,val1):
     arg1(val1)
     arg1(val1)
 
-# this function accepts a string and prints it twice
+# #this function accepts a string and prints it twice
 def print_twice(string):
 	print(string)
 	print(string)
